@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Príklady</string>
+    <string name="hlNadpis">Matematické príklady pre deti ZŠ</string>
+
+    <string name="porovnavanie">Porovnávanie</string>
+    <string name="scitanie">Sčítanie</string>
+    <string name="odcitanie">Odčítanie</string>
+    <string name="nasobenie">Malá násobilka</string>
+    <string name="delenie">Malá delilka</string>
+
+    <string name="btn_do_10">do 10</string>
+    <string name="btn_do_20">do 20</string>
+    <string name="btn_do_100">do 100</string>
+    <string name="btn_do_1000">do 1000</string>
+
+    <string name="btn_do_10_mix">zmiesane do 10</string>
+    <string name="btn_do_20_mix">zmiesane do 20</string>
+    <string name="btn_do_100_mix">zmiesane do 100</string>
+
+    <string name="btn_x">x</string>
+
+    <string name="gt">&gt;</string>
+    <string name="lt">&lt;</string>
+    <string name="eq">=</string>
+    <string name="questionMark">\?</string>
+
+    <string name="allTasks">Celkovo príkladov :</string>
+    <string name="correctTasks">Správne :</string>
+    <string name="failTasks">Nesprávne :</string>
+    <string name="timeSolving">Čas riešenia :</string>
+    <string name="exerciseType">Typ príkladov :</string>
+
+    <string name="information">Informácie pre rodiča</string>
+    <string name="wrong_answers">Nesprávne vyriešené príklady</string>
+
+    <string name="all_statistic">Celkové hodnotenie</string>
+    <string name="last_statistic">Posledná aktivita</string>
+
+    <string name="noWrongTasks">Žiadne nesprávne vyriešné príklady</string>
+
+    <string name="timeCount">0:00:00</string>
+
+
+
+
+</resources>

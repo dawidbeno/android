@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="green">#00aa00</color>
+    <color name="red">#CC0000</color>
+    <color name="black">#000</color>
+
+    <color name="comparePurple">#B36EBB</color>
+    <color name="plusGreen">#77D07C</color>
+    <!--<color name="plusGreen">#7dfaa0</color>-->
+    <color name="minusRed">#ff4b4b</color>
+    <color name="multiplicateOrange">#ffd11a</color>
+    <color name="divideBlue">#0099ff</color>
+
+
+
+</resources>

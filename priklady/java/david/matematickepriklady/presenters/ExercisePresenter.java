@@ -7,8 +7,6 @@ import david.matematickepriklady.models.Task;
 import david.matematickepriklady.ui.activities.ChooseActivity;
 import david.matematickepriklady.ui.activities.ExerciseActivity;
 
-/* daco skusam */s
-
 public class ExercisePresenter {
 
     private ExerciseActivity exView;

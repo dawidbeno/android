@@ -1,5 +1,7 @@
 # Math for kids
 
+[Slovak](README.sk.md) version
+
 Application for practicing simple examples of addition, subtraction, comparison and small multiplication table and delicacy.
 Difficulty can be selected for each type of example.
 The application also creates statistics of the solution - the number of correctly and incorrectly calculated examples is recorded.
@@ -7,7 +9,7 @@ The time of the last problem solving with the possibility of viewing incorrectly
 
 [![Alt text](img/google_play.png?raw=true)](https://play.google.com/store/apps/details?id=david.matematickepriklady)
 
-## Obrazovky
+## Screens
 
 ![Alt text](img/math_app_sk.jpg?raw=true "Screens")
 

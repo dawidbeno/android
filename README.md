@@ -7,7 +7,7 @@ Difficulty can be selected for each type of example.
 The application also creates statistics of the solution - the number of correctly and incorrectly calculated examples is recorded.
 The time of the last problem solving with the possibility of viewing incorrectly calculated examples is also recorded.
 
-[![](img/google_play.png ){ width=50% }](https://play.google.com/store/apps/details?id=david.matematickepriklady)
+[![](img/google_play.png )](https://play.google.com/store/apps/details?id=david.matematickepriklady)
 
 ## Screens
 

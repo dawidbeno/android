@@ -11,6 +11,8 @@ Zaznamenáva sa aj čas posledného riešenia príkladov s možnosťou prezerani
 
 ![Alt text](img/math_app_sk.jpg?raw=true "Screens")
 
+## Inštalácia
+Okrem inštalácie z obchodu play je možné stiahnuť súbor **priklady.apk** a aplikáciu si nainštalovať samostatne.
 
 # License
 Vytvoril Dávid Beňo v roku 2017. 

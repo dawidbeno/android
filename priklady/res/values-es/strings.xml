@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Matemática</string>
+    <string name="add_title">SUMAR</string>
+    <string name="addition">Sumar</string>
+    <string name="allTasks">Cuentas :</string>
+    <string name="compare_title">COMPARAR</string>
+    <string name="comparision">Comparar</string>
+    <string name="correctTasks">Correcto :</string>
+    <string name="difficulty">Dificultad</string>
+    <string name="divide_title">DIVIDIR</string>
+    <string name="division">Dividir</string>
+    <string name="exerciseType">Tipo :</string>
+    <string name="failTasks">Incorrecto :</string>
+    <string name="lastActivity">Último ejercicio</string>
+    <string name="main_title">MATEMÁTICA</string>
+    <string name="multiples">Multiplicar por número</string>
+    <string name="multiplication">Multiplicar</string>
+    <string name="multiply_title">MULTIPLICAR</string>
+    <string name="overall">Total</string>
+    <string name="recalculate">Recalcular</string>
+    <string name="start">Comenzar</string>
+    <string name="stats">Estadística</string>
+    <string name="stats_title">ESTADÍSTICA</string>
+    <string name="subtract_title">RESTAR</string>
+    <string name="subtraction">Restar</string>
+    <string name="timeSolving">Tiempo :</string>
+    <string name="divides">Dividir por número</string>
+</resources>

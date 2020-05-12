@@ -1,20 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">@android:color/darker_gray</color>
+    <color name="colorPrimaryDark">#a9a9a9</color>
+<!--    <color name="colorAccent">#0E4D9F</color>-->
+<!--    <color name="colorAccent">#ab5c20</color>-->
+<!--    <color name="colorAccent">#f5f5f5</color>-->
+<!--    <color name="colorAccent">#e8e8e8</color>-->
+<!--    <color name="colorAccent">#e7ad81</color>-->
+<!--    <color name="colorAccent">#CC0000</color>-->
+    <color name="colorAccent">#dbdbdb</color>
 
     <color name="green">#00aa00</color>
     <color name="red">#CC0000</color>
     <color name="black">#000</color>
+    <color name="blue">#0E4D9F</color>
+    <color name="brown">#ab5c20</color>
+    <color name="white">#fff</color>
+    <color name="almost_white">#f5f5f5</color>
+    <color name="grey">#aaa</color>
+    <color name="darker_grey">#888</color>
+    <color name="dark">#565656</color>
 
-    <color name="comparePurple">#B36EBB</color>
-    <color name="plusGreen">#77D07C</color>
-    <!--<color name="plusGreen">#7dfaa0</color>-->
-    <color name="minusRed">#ff4b4b</color>
-    <color name="multiplicateOrange">#ffd11a</color>
-    <color name="divideBlue">#0099ff</color>
+<!--  Main exercise colors  -->
+    <color name="comparePurple">#973999</color>
+<!--    <color name="plusGreen">#5EBD3E</color>-->
+    <color name="plusGreen">#4f9f34</color>
+    <color name="minusRed">#E23838</color>
+<!--    <color name="multiplicateOrange">#FFB900</color>-->
+    <color name="multiplicateOrange">#ebab00</color>
+    <color name="divideBlue">#009CDF</color>
 
-
+<!--  Weak background colors  -->
+    <color name="bg_comparePurple">#edd5f0</color>
+    <color name="bg_plusGreen">#daf0db</color>
+    <color name="bg_minusRed">#ffb5b5</color>
+    <color name="bg_multiplicateOrange">#fff8de</color>
+    <color name="bg_divideBlue">#bde4ff</color>
 
 </resources>

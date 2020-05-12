@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp">
+
+
+        <TextView
+            android:text="100 + 100 = "
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="40sp"
+            android:textAlignment="textEnd"
+            android:layout_gravity="end"
+            android:id="@+id/exerTaskTxtView"
+            android:layout_weight="1" />
+
+        <TextView
+            android:text="200"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="40sp"
+            android:id="@+id/exerAns"
+            android:layout_weight="1" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginRight="5dp"
+            android:layout_marginLeft="5dp">
+
+            <Button
+                android:text="100"
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:textSize="40sp"
+                android:textColor="@color/almost_white"
+                android:id="@+id/btnAns1"
+                android:layout_weight="1" />
+
+            <Button
+                android:text="100"
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:textColor="@color/almost_white"
+                android:textSize="40sp"
+                android:id="@+id/btnAns2"
+                android:layout_weight="1" />
+
+            <Button
+                android:text="100"
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:textColor="@color/almost_white"
+                android:textSize="40sp"
+                android:id="@+id/btnAns3"
+                android:layout_weight="1" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginRight="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="10dp"
+            android:paddingBottom="10dp">
+
+            <Button
+                android:text="100"
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:textSize="40sp"
+                android:textColor="@color/almost_white"
+                android:id="@+id/btnAns4"
+                android:layout_weight="1" />
+
+            <Button
+                android:text="100"
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:textSize="40sp"
+                android:textColor="@color/almost_white"
+                android:id="@+id/btnAns5"
+                android:layout_weight="1" />
+
+            <Button
+                android:text="100"
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:textSize="40sp"
+                android:textColor="@color/almost_white"
+                android:id="@+id/btnAns6"
+                android:layout_weight="1" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

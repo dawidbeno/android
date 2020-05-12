@@ -1,47 +1,41 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Príklady</string>
-    <string name="hlNadpis">Matematické príklady pre deti ZŠ</string>
+    <string name="app_name">Math</string>
 
-    <string name="porovnavanie">Porovnávanie</string>
-    <string name="scitanie">Sčítanie</string>
-    <string name="odcitanie">Odčítanie</string>
-    <string name="nasobenie">Malá násobilka</string>
-    <string name="delenie">Malá delilka</string>
+<!--  Titles  -->
+    <string name="main_title"><b>M A T H</b></string>
+    <string name="subtract_title">SUBTRACT</string>
+    <string name="multiply_title">MULTIPLY</string>
+    <string name="divide_title">DIVIDE</string>
+    <string name="compare_title">COMPARE</string>
+    <string name="stats_title">STATS</string>
 
-    <string name="btn_do_10">do 10</string>
-    <string name="btn_do_20">do 20</string>
-    <string name="btn_do_100">do 100</string>
-    <string name="btn_do_1000">do 1000</string>
+    <!--  Buttons  -->
+    <string name="addition">Add</string>
+    <string name="subtraction">Subtract</string>
+    <string name="comparision">Compare</string>
+    <string name="multiplication">Multiply</string>
+    <string name="division">Divide</string>
+    <string name="multiples">Multiples by</string>
+    <string name="divides">Divides by</string>
+    <string name="stats">Stats</string>
+    <string name="lastActivity">Last practice</string>
+    <string name="overall">Overall</string>
+    <string name="recalculate">Recalculate</string>
+    <string name="difficulty">Difficulty</string>
+    <string name="start">Start</string>
 
-    <string name="btn_do_10_mix">zmiesane do 10</string>
-    <string name="btn_do_20_mix">zmiesane do 20</string>
-    <string name="btn_do_100_mix">zmiesane do 100</string>
-
-    <string name="btn_x">x</string>
-
-    <string name="gt">&gt;</string>
-    <string name="lt">&lt;</string>
-    <string name="eq">=</string>
-    <string name="questionMark">\?</string>
-
-    <string name="allTasks">Celkovo príkladov :</string>
-    <string name="correctTasks">Správne :</string>
-    <string name="failTasks">Nesprávne :</string>
-    <string name="timeSolving">Čas riešenia :</string>
-    <string name="exerciseType">Typ príkladov :</string>
-
-    <string name="information">Informácie pre rodiča</string>
-    <string name="wrong_answers">Nesprávne vyriešené príklady</string>
-
-    <string name="all_statistic">Celkové hodnotenie</string>
-    <string name="last_statistic">Posledná aktivita</string>
-
-    <string name="noWrongTasks">Žiadne nesprávne vyriešné príklady</string>
-
-    <string name="timeCount">0:00:00</string>
+<!-- Stats -->
+    <string name="allTasks">Exercises :</string>
+    <string name="correctTasks">Correct :</string>
+    <string name="failTasks">Wrong :</string>
+    <string name="timeSolving">Time :</string>
+    <string name="exerciseType">Type :</string>
+    <string name="timeCount" translatable="false">0:00:00</string>
 
 
-
+    <string name="greaterThan" translatable="false">&gt;</string>
+    <string name="equal" translatable="false">=</string>
+    <string name="lessThan" translatable="false">&lt;</string>
+    <string name="add_title">ADD</string>
 
 </resources>

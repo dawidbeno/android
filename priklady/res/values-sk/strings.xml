@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Matematika</string>
+    <string name="add_title">SČÍTANIE</string>
+    <string name="addition">Sčítanie</string>
+    <string name="allTasks">Príklady :</string>
+    <string name="compare_title">POROVNÁVANIE</string>
+    <string name="comparision">Porovnávanie</string>
+    <string name="correctTasks">Správne :</string>
+    <string name="difficulty">Náročnosť</string>
+    <string name="divide_title">DELENIE</string>
+    <string name="division">Delenie</string>
+    <string name="exerciseType">Typ :</string>
+    <string name="failTasks">Nesprávne :</string>
+    <string name="main_title">MATEMATIKA</string>
+    <string name="lastActivity">Posledné cvičenie</string>
+    <string name="multiplication">Násobenie</string>
+    <string name="multiply_title">NÁSOBENIE</string>
+    <string name="overall">Celkovo</string>
+    <string name="recalculate">Prepočítať</string>
+    <string name="stats">Štatistika</string>
+    <string name="stats_title">ŠTATISTIKA</string>
+    <string name="subtract_title">ODČÍTANIE</string>
+    <string name="subtraction">Odčítanie</string>
+    <string name="timeSolving">Čas :</string>
+    <string name="start">Štart</string>
+    <string name="divides">Delenie číslom</string>
+    <string name="multiples">Násobenie číslom</string>
+</resources>

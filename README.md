@@ -11,7 +11,7 @@ The time of the last problem solving with the possibility of viewing incorrectly
 
 ## Screens
 
-![Alt text](img/math_app_sk.jpg?raw=true "Screens")
+![Alt text](img/math_app_en.jpg?raw=true "Screens")
 
 ## Installation
 You can download **priklady.apk** file and istall it on your own.
